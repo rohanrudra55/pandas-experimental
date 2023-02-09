@@ -1,0 +1,2 @@
+folderstats==0.4.1
+pandas==1.5.2
